@@ -9,3 +9,4 @@ dependencies:
   - keras
   - np_utils
   - theano
+  - matplotlib
