@@ -5,3 +5,7 @@ dependencies:
   - root
   - pip
   - uproot
+  - pandas
+  - keras
+  - np_utils
+  - theano
