@@ -8,5 +8,5 @@ dependencies:
   - pandas
   - keras
   - np_utils
-  - theano
+  - tensorflow
   - matplotlib
