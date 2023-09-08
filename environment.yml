@@ -11,3 +11,4 @@ dependencies:
   - tensorflow
   - matplotlib
   - protobuf=3.18.0
+  - python=3.9.0
