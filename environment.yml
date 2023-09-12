@@ -2,7 +2,7 @@ name: analysis
 channels:
   - conda-forge
 dependencies:
-  - root=6.28.4
+  - root
   - pip
   - uproot
   - pandas
