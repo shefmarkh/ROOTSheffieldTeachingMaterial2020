@@ -4,10 +4,10 @@ channels:
 dependencies:
   - root
   - pip
-  - uproot=4.3.7
-  - pandas=1.2.0
-  - keras=2.13.1
+  - uproot
+  - pandas
+  - keras
   - np_utils
   - tensorflow
   - matplotlib
-  - python=3.10.0
+  - python
