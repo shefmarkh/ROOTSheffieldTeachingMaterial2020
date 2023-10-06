@@ -11,4 +11,4 @@ dependencies:
   - np_utils
   - tensorflow
   - matplotlib
-  - python
+  - python=3.7.17
