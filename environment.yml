@@ -4,12 +4,11 @@ channels:
 dependencies:
   - root
   - pip
-  - uproot
+  - uproot=4.3.7
   - awkward-pandas=2023.8.0
-  - pandas
-  - keras
+  - pandas=1.2.0
+  - keras=2.13.1
   - np_utils
-  - tensorflow
+  - tensorflow=2.13.0
   - matplotlib
-  - protobuf=3.18.0
   - python=3.9.0
