@@ -8,6 +8,6 @@ dependencies:
   - pandas=1.2.0
   - keras=2.13.1
   - np_utils
-  - tensorflow=2.13.0
+  - tensorflow
   - matplotlib
-  - python=3.11.5
+  - python=3.10.0
