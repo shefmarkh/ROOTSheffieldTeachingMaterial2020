@@ -5,6 +5,7 @@ dependencies:
   - root
   - pip
   - uproot
+  - awkward-pandas
   - pandas
   - keras
   - np_utils
