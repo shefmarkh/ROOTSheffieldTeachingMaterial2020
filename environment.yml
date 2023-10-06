@@ -4,7 +4,7 @@ channels:
 dependencies:
   - root
   - pip
-  - uproot
+  - uproot=4.3.7
   - awkward-pandas
   - pandas
   - keras
