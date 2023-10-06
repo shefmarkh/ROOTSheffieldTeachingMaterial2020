@@ -10,4 +10,4 @@ dependencies:
   - np_utils
   - tensorflow
   - matplotlib
-  - python
+  - python=3.9.0
