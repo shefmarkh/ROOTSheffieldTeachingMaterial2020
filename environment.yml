@@ -5,10 +5,9 @@ dependencies:
   - root
   - pip
   - uproot=4.3.7
-  - awkward-pandas
   - pandas
   - keras
   - np_utils
   - tensorflow
   - matplotlib
-  - python=3.10.0
+  - python
